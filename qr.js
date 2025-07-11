@@ -97,7 +97,7 @@ for any help dm https://wa.me/256753679393 ✌🏻`;
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "ᴍᴀʟᴠɪɴ-xᴅ 𝕮𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉",
+title: "Ｍｅｇａ𓃵 -M D 𝕮𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉",
 thumbnailUrl: "https://cdn.ironman.my.id/i/5xtyu7.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029Vb6covl05MUWlqZdHI2w",
 mediaType: 1,
@@ -131,7 +131,7 @@ for any help dm https://wa.me/256753679393 ✌🏻*`;
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "ᴍᴀʟᴠɪɴ-xᴅ 𝕮𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉 ✅  ",
+title: "Ｍｅｇａ𓃵 -M D 𝕮𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉 ✅  ",
 thumbnailUrl: "https://cdn.ironman.my.id/i/5xtyu7.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029Vb6covl05MUWlqZdHI2w",
 mediaType: 2,
