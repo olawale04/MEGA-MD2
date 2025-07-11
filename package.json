@@ -5,7 +5,7 @@
     "main": "index.js",
     "scripts": {
       "start": "pm2 start index.js --deep-monitoring --attach --name MEGA-MD",
-      "stop": "pm2 stop malvin-xd",
+      "stop": "pm2 stop mega-md",
      "restart": "pm2 restart mega-md"
     },
   "dependencies": {
