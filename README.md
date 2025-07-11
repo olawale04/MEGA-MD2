@@ -54,7 +54,7 @@ Generate session IDs for WhatsApp bots using [`@whiskeysockets/baileys`](https:/
 
 <p align="center">
   <a href="https://github.com/Lawrence-bot-maker">
-    <img src="https://cdn.ironman.my.id/i/5xtyu7.jpg" width="200" height="200" alt="Lord mega"/>
+    <img src="https://cdn.ironman.my.id/i/ttlm6m.jpg" width="200" height="200" alt="Lord mega"/>
   </a>
 </p>
 
