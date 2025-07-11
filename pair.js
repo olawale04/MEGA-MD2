@@ -75,11 +75,11 @@ var randomItem = selectRandomItem(items);
                         const { upload } = require('./mega');
                         const mega_url = await upload(fs.createReadStream(rf), `${sock.user.id}.json`);
                         const string_session = mega_url.replace('https://mega.nz/file/', '');
-                        let md = "lordmega~" + string_session;
+                        let md = "mega~" + string_session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
-                        let desc = `*Hey there, MEGA_MD User!* 👋🏻
+                        let desc = `*Hey there, MEGA-MD User!* 👋🏻
 
-Thanks for using *MEGA_MD* — your session has been successfully created!
+Thanks for using *MEGA-MD* — your session has been successfully created!
 
 🔐 *Session ID:* Sent above  
 ⚠️ *Keep it safe!* Do NOT share this ID with anyone.
@@ -102,8 +102,8 @@ For any help reachout https://wa.me/256753679393. ✌🏻`;
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "ᴍᴀʟᴠɪɴ-xᴅ",
-thumbnailUrl: "https://files.catbox.moe/bqs70b.jpg",
+title: "Ｍｅｇａ𓃵 -M D",
+thumbnailUrl: "https://cdn.ironman.my.id/i/ttlm6m.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029Vb6covl05MUWlqZdHI2w",
 mediaType: 1,
 renderLargerThumbnail: true
@@ -138,7 +138,7 @@ For any help reachout https://wa.me/256753679393. ✌🏻`;
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "ᴍᴀʟᴠɪɴ-xᴅ",
+title: "Ｍｅｇａ𓃵 -M D",
 thumbnailUrl: "https://i.imgur.com/GVW7aoD.jpeg",
 sourceUrl: "https://whatsapp.com/channel/0029Vb6covl05MUWlqZdHI2w",
 mediaType: 2,
