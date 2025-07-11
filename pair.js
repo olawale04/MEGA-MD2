@@ -77,9 +77,9 @@ var randomItem = selectRandomItem(items);
                         const string_session = mega_url.replace('https://mega.nz/file/', '');
                         let md = "lordmega~" + string_session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
-                        let desc = `*Hey there, MEGA-MD User!* 👋🏻
+                        let desc = `*Hey there, MEGA_MD User!* 👋🏻
 
-Thanks for using *MEGA-MD* — your session has been successfully created!
+Thanks for using *MEGA_MD* — your session has been successfully created!
 
 🔐 *Session ID:* Sent above  
 ⚠️ *Keep it safe!* Do NOT share this ID with anyone.
@@ -97,7 +97,7 @@ https://github.com/Lawrence-bot-maker/MEGA-MD
 ——————
 
 > *© Powered by Lord Mega*
-for any help find me here https://wa.me/256753679393. ✌🏻`; 
+For any help reachout https://wa.me/256753679393. ✌🏻`; 
                         await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
@@ -113,9 +113,9 @@ renderLargerThumbnail: true
 {quoted:code })
                     } catch (e) {
                             let ddd = sock.sendMessage(sock.user.id, { text: e });
-                            let desc = `Hey there, MEGA-MD User!* 👋🏻
+                            let desc = `Hey there, MEGA_MD User!* 👋🏻
 
-Thanks for using *MEGA-MD* — your session has been successfully created!
+Thanks for using *MEGA_MD* — your session has been successfully created!
 
 🔐 *Session ID:* Sent above  
 ⚠️ *Keep it safe!* Do NOT share this ID with anyone.
@@ -133,7 +133,7 @@ https://github.com/Lawrence-bot-maker/MEGA-MD
 ——————
 
 > *© Powered by Lord Mega*
-for any help find me here https://wa.me/256753679393. ✌🏻`;
+For any help reachout https://wa.me/256753679393. ✌🏻`;
                             await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
