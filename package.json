@@ -4,7 +4,7 @@
     "description": "A multi functional whatsapp bot Web paircode.",
     "main": "index.js",
     "scripts": {
-      "start": "pm2 start index.js --deep-monitoring --attach --name MEGA-MD",
+      "start": "pm2 start index.js --deep-monitoring --attach --name mega-md",
       "stop": "pm2 stop mega-md",
      "restart": "pm2 restart mega-md"
     },
